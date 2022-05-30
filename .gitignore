@@ -2,3 +2,9 @@
 *.csv
 test
 train
+
+*starter.ipynb
+*.pth
+*.log
+*.pkl
+*.backup.ipynb
